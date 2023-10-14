@@ -1,4 +1,5 @@
 # Welcome to Hacktoberfest 2023 Landing Page Design Repository! 🚀
+![HactoberFest2023](/Assets/Hactoberfest2023.png)  
 
 Are you passionate about creating stunning and user-friendly landing pages? You're in the right place! This repository is dedicated to designing captivating landing pages using a variety of technologies including React.js, JavaScript, HTML, CSS, Java, C++, C, and Python. We believe that great design is a combination of creativity, usability, and technical expertise, and we're excited to see what you can bring to the table. It doesn't matter if your just a beginner or not but if you have creativity to desing crazy stuffs your welcome!
 
