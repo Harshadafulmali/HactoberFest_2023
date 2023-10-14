@@ -14,7 +14,7 @@
 <h2 align="center">About your own work contributions</h2>
 <p align="center"> Below has some guidelines regarding contributing your works:</p>
 <ul>
-  <li><h3>Your project (or name) should be within a directory the corresponding name (or the same name you have mentioned in your PR)</h3></li>
-  <li><h3>There must be a README.md file in your project that should be mentioning: <b>Title</b> , <b>Short description</b></h3></li>
-  <li><h3>Do not copy the works of others as it is strictly violates someone works.</li>
+  <li><h3>Your project (or work) should be within a directory the corresponding name (or the same name you have mentioned in your PR)</h3></li>
+  <li><h3>There must be a README.md file in your project that should be mentioning: <b>title</b> , <b>short description</b></h3></li>
+  <li><h3>Do not copy the works of others as it strictly violates someone works.</li>
 </ul>
