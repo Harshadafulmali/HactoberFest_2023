@@ -1,0 +1,8 @@
+This is how you have to maintain your project with this repo :
+project directory ( give it some name)
+  |
+  |___ source-code.txt (Your source codes or other relevant dependencies files etc.)
+  |___ README.md (contains title , short description or any other extra information if you want to give regarding to your project)
+
+Just simply add a folder (project folder) and put your all source code files in this folder push this folder !
+  
